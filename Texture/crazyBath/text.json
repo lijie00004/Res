@@ -1,0 +1,38 @@
+{
+  "TID_UI_1": {
+    "id": "TID_UI_1",
+    "zh": "花费100金币跳过此关卡，确定嘛？",
+    "en": "Will you spend 100 gold to skip this level?",
+    "TID_UI_1": "TID_UI_1"
+  },
+  "TID_UI_2": {
+    "id": "TID_UI_2",
+    "zh": "跳过",
+    "en": "Skip",
+    "TID_UI_2": "TID_UI_2"
+  },
+  "TID_UI_3": {
+    "id": "TID_UI_3",
+    "zh": "取消",
+    "en": "Cancel",
+    "TID_UI_3": "TID_UI_3"
+  },
+  "TID_UI_4": {
+    "id": "TID_UI_4",
+    "zh": "下一关",
+    "en": "Next level",
+    "TID_UI_4": "TID_UI_4"
+  },
+  "TID_UI_5": {
+    "id": "TID_UI_5",
+    "zh": "关卡",
+    "en": "Level",
+    "TID_UI_5": "TID_UI_5"
+  },
+  "TID_UI_6": {
+    "id": "TID_UI_6",
+    "zh": "确定",
+    "en": "Enter",
+    "TID_UI_6": "TID_UI_6"
+  }
+}
